@@ -140,4 +140,4 @@ contract HexanCoin is StandardToken {
     }
 }
 
-https://abi.hashex.org/
+
